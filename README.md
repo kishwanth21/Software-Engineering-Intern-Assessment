@@ -5,8 +5,7 @@ This project is a simple FastAPI web application that provides a basic login fun
 
 ## Project Setup
 To set up and run this project, follow the steps below:
-
-### Prerequisites
+#### Pre-requisites
 Python: Make sure you have Python installed on your system. This project requires Python 3.6 or higher.
 MySQL: You need a running MySQL server. Ensure that you have the necessary credentials (username and password) to connect to the MySQL server. If you don't have MySQL installed, you can download and install it from the official website: https://dev.mysql.com/downloads/installer/
 
