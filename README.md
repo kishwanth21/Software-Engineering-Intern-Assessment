@@ -24,3 +24,11 @@ On Windows:
 ```sh
 venv\Scripts\activate
 ```
+On macOS and Linux:
+```sh
+source venv/bin/activate
+```
+4. Install the required Python packages:
+```sh
+pip install -r requirements.txt
+```
