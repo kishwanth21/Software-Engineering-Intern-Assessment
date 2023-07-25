@@ -10,9 +10,17 @@ Python: Make sure you have Python installed on your system. This project require
 MySQL: You need a running MySQL server. Ensure that you have the necessary credentials (username and password) to connect to the MySQL server. If you don't have MySQL installed, you can download and install it from the official website: https://dev.mysql.com/downloads/installer/
 
 ## Installation
-1. Create a virtual environment:
-
+1. Clone this repository to your local machine:
 ```sh
 git clone <repository-url>
 cd <repository-folder>
+```
+2. Create a virtual environment:
+```sh
+python -m venv venv
+```
+3. Activate the virtual environment:
+On Windows:
+```sh
+venv\Scripts\activate
 ```
