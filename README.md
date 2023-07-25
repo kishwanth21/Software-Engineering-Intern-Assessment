@@ -13,6 +13,6 @@ MySQL: You need a running MySQL server. Ensure that you have the necessary crede
 1. Create a virtual environment:
 
 ---
-'''python
+```sh
 pip install flask
-'''
+```
